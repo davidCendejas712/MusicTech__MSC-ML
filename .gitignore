@@ -1,0 +1,6 @@
+# Carpeta de datos descomprimida del Lab2 (el .zip no se ignora)
+Lab2/Data-20261104T120000Z-1-001/
+
+# Checkpoints y caches generados por los notebooks
+.ipynb_checkpoints/
+__pycache__/
